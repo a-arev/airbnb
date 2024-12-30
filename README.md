@@ -1,7 +1,9 @@
-# Airbnb Data Analysis
+# Data Analysis for Airbnbs in Rio de Janeiro
 ## Description
-This repo holds files and notebookes used to analyze a dataset from Airbnb. The goal of this exercies is 
-to answer the challenge found [here](https://colab.research.google.com/github/interviewquery/takehomes/blob/airbnb_1/airbnb_1/takehomefile.ipynb#scrollTo=eef90170), which are the following:
+This repo holds files and notebooks used to analyze a dataset from Airbnb. The dataset has app activity for Airbnb users in 
+the city of Rio de Janeiro. The goal of this exercies is 
+to answer the challenge found [here](https://colab.research.google.com/github/interviewquery/takehomes/blob/airbnb_1/airbnb_1/takehomefile.ipynb#scrollTo=eef90170), 
+which are the following:
 
 1.  What key metrics would you propose to monitor over time the success of the team's efforts in improving
     the guest host matching process and why? Clearly define your metric(s) and explain how each is computed.
