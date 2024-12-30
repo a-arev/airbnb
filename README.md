@@ -30,3 +30,4 @@ to answer the challenge found [here](https://colab.research.google.com/github/in
   - **listing-neighborhood.png** - table showing top 5 neighboorhoods for listings with bookings
   - **room-type.png** - table showing counts of each type of room for listings
   - **time-to-book.png** - graph showing distribution of booking time (time of booking minus time of inquiry)
+  - **Airbnb Analysis Results.pdf** - PDF file for slide presentation on the analysis results 
