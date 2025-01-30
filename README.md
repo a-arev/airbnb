@@ -32,4 +32,8 @@ which are the following:
   - **listing-neighborhood.png** - table showing top 5 neighboorhoods for listings with bookings
   - **room-type.png** - table showing counts of each type of room for listings
   - **time-to-book.png** - graph showing distribution of booking time (time of booking minus time of inquiry)
-- **Airbnb Analysis Results.pdf** - PDF file for slide presentation on the analysis results 
+- **Airbnb Analysis Results.pdf** - PDF file for slide presentation on the analysis results
+- **Airbnb Dashboard.pbix** - Power Bi dashboard file
+- **Airbnb Dashboard.pdf** - PDF version of published dashboard. (I don't have paid license to share dashboards.)
+- **README.md** - markdown file for this page description you are reading now
+- **airbnb.ipynb** - Jupyter notebook used to process dataset and answer analysis questions
